@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Omniversify_core Flutter Package:
+<a href="https://wakatime.com/badge/user/8f91b807-e495-40b9-8b28-f3994fd08e48/project/ce0882f3-403a-4245-89d3-77d7ad769c8a"><img src="https://wakatime.com/badge/user/8f91b807-e495-40b9-8b28-f3994fd08e48/project/ce0882f3-403a-4245-89d3-77d7ad769c8a.svg" alt="wakatime"></a>
+
+Albourane Admin Panel:
+<a href="https://wakatime.com/badge/user/8f91b807-e495-40b9-8b28-f3994fd08e48/project/a04ef6fb-256a-40fb-b2e4-548c0c6d0e55"><img src="https://wakatime.com/badge/user/8f91b807-e495-40b9-8b28-f3994fd08e48/project/a04ef6fb-256a-40fb-b2e4-548c0c6d0e55.svg" alt="wakatime"></a>
+
+<img src="https://wakatime.com/share/@phaylali/c07a8c49-9232-42fb-9609-f0b5abab9666.svg"></img>
+
+<img src="https://wakatime.com/share/@phaylali/c686f429-d05f-44d5-bfba-164abd871cb4.svg"></img>
