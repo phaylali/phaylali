@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 -->
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D01CZ83J)
 
-
-<figure><embed src="https://wakatime.com/share/@phaylali/93d70d01-8233-4141-b92f-1f924eddb026.svg"></embed></figure>
-
-<img src="https://wakatime.com/share/@phaylali/c07a8c49-9232-42fb-9609-f0b5abab9666.svg"></img>
-
-<img src="https://wakatime.com/share/@phaylali/c686f429-d05f-44d5-bfba-164abd871cb4.svg"></img>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@phaylali/4c2ee12b-4228-4809-8bf5-6824ac7b593c.png" /></a>
