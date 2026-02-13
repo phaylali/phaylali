@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D01CZ83J)
 
 
-
+<figure><embed src="https://wakatime.com/share/@phaylali/93d70d01-8233-4141-b92f-1f924eddb026.svg"></embed></figure>
 
 <img src="https://wakatime.com/share/@phaylali/c07a8c49-9232-42fb-9609-f0b5abab9666.svg"></img>
 
