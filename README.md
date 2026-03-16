@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@phaylali/4c2ee12b-4228-4809-8bf5-6824ac7b593c.png" /></a>
 # 💫 About Me:
-I'm currently working om the website Omniversify using AstroJS+Bun
+I'm currently working om the website Omniversify using AstroJS+Bun from Tetouan, Morocco
 
 
 ## 🌐 Socials:
