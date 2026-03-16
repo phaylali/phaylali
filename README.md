@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-<!--
-**phaylali/phaylali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D01CZ83J)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@phaylali/4c2ee12b-4228-4809-8bf5-6824ac7b593c.png" /></a>
 # 💫 About Me:
 I'm currently working om the website Omniversify using AstroJS+Bun from Tetouan, Morocco
 
@@ -48,3 +31,4 @@ I'm currently working om the website Omniversify using AstroJS+Bun from Tetouan,
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@phaylali/4c2ee12b-4228-4809-8bf5-6824ac7b593c.png" /></a>
