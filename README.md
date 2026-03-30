@@ -1,7 +1,19 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working om the website Omniversify using AstroJS+Bun from Tetouan, Morocco
+A developer from Tetouan, Morocco
+I'm currently working on:
+- Omniversify (Official Website)
+- Flags Search Engine 
+- Omniversify Font (Multilingual Font Featuring Arabic, English and Tifinagh)
+- Warframe Tools (Relic Inventory)
+- Birthday Calculator 
+- Morocco Time Api (Api Featuring Hijri Date, Gregorian Date and Amazigh Date)
+- OmniStreamBot (OBS Alternative With BuiltIn Chat TTS)
+- Keystroke Visualizer (Overlay For Keystrokes)
+- Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
+- Font Glyph Extractor (Extract SVG Glyphs from a Font File)
+- Genshin Impact Tools (Achievement with custom text Generator)
 
 
 ## 🌐 Socials:
