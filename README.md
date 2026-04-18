@@ -9,7 +9,7 @@ I'm currently working on:
 - Warframe Tools (Relic Inventory)
 - Birthday Calculator 
 - Morocco Time Api (Api Featuring Hijri Date, Gregorian Date and Amazigh Date)
-- OmniStreamBot (OBS Alternative With BuiltIn Chat TTS)
+- OmniStream Studio (Web Based OBS Alternative With BuiltIn Chat TTS)
 - Keystroke Visualizer (Overlay For Keystrokes)
 - Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
 - Font Glyph Extractor (Extract SVG Glyphs from a Font File)
