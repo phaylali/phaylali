@@ -14,6 +14,7 @@ I'm currently working on:
 - Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
 - Font Glyph Extractor (Extract SVG Glyphs from a Font File)
 - Genshin Impact Tools (Achievement with custom text Generator)
+- Where Winds Meet Guild Inviter (Auto Clicker to fast invite players to your guild)
 
 
 ## 🌐 Socials:
