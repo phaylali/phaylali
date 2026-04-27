@@ -16,6 +16,7 @@ I'm currently working on:
 - Genshin Impact Tools (Achievement with custom text Generator)
 - Where Winds Meet Guild Inviter (Auto Clicker to fast invite players to your guild)
 - OmniTV (an IPTV player for android TV designed for old people who are familiar with traditional cable network)
+- Android/Playstore Icon Generator (generate all required Android app icons from a single WebP or PNG image)
 
 
 ## 🌐 Socials:
