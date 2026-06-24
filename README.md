@@ -4,16 +4,18 @@
 A developer from Tetouan, Morocco
 I'm currently working on:
 - Omniversify (Official Website)
-- Flags Search Engine 
 - Omniversify Font (Multilingual Font Featuring Arabic, English and Tifinagh)
-- Warframe Tools (Relic Inventory)
-- Birthday Calculator 
+- Omniversify Tifinagh Dictionary API
 - Morocco Time Api (Api Featuring Hijri Date, Gregorian Date and Amazigh Date)
+- Font Glyph Extractor (Extract SVG Glyphs from a Font File) [MERGED INTO Glyph Visualizer]
+- Flags Search Engine
+- Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
+- Warframe Tools (Relic Inventory) (Available on Playstore)
+- Birthday Calculator (Available on Playstore)
+- Genshin Impact Tools (Achievement with custom text Generator)
+- WPlace Timelapse Recorder (Automatically captures map timelapses from WPlace archives)
 - OmniStream Studio (Web Based OBS Alternative With BuiltIn Chat TTS) [DEPRECATED]
 - Keystroke Visualizer (Overlay For Keystrokes) [WIP]
-- Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
-- Font Glyph Extractor (Extract SVG Glyphs from a Font File) [MERGED INTO Glyph Visualizer]
-- Genshin Impact Tools (Achievement with custom text Generator)
 - Where Winds Meet Guild Inviter (Auto Clicker to fast invite players to your guild)
 - OmniTV (an IPTV player for android TV designed for old people who are familiar with traditional cable network)
 - Android/Playstore Icon Generator (generate all required Android app icons from a single WebP or PNG image)
