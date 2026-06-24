@@ -9,10 +9,10 @@ I'm currently working on:
 - Warframe Tools (Relic Inventory)
 - Birthday Calculator 
 - Morocco Time Api (Api Featuring Hijri Date, Gregorian Date and Amazigh Date)
-- OmniStream Studio (Web Based OBS Alternative With BuiltIn Chat TTS)
-- Keystroke Visualizer (Overlay For Keystrokes)
+- OmniStream Studio (Web Based OBS Alternative With BuiltIn Chat TTS) [DEPRECATED]
+- Keystroke Visualizer (Overlay For Keystrokes) [WIP]
 - Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
-- Font Glyph Extractor (Extract SVG Glyphs from a Font File)
+- Font Glyph Extractor (Extract SVG Glyphs from a Font File) [MERGED INTO Glyph Visualizer]
 - Genshin Impact Tools (Achievement with custom text Generator)
 - Where Winds Meet Guild Inviter (Auto Clicker to fast invite players to your guild)
 - OmniTV (an IPTV player for android TV designed for old people who are familiar with traditional cable network)
