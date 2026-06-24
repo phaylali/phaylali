@@ -7,6 +7,7 @@ I'm currently working on:
 - Omniversify Font (Multilingual Font Featuring Arabic, English and Tifinagh)
 - Omniversify Tifinagh Dictionary API
 - Morocco Time Api (Api Featuring Hijri Date, Gregorian Date and Amazigh Date)
+- Glyphs 3D Visualizer (A browser-based tool to convert SVG font glyphs into spinning 3D objects)
 - Font Glyph Extractor (Extract SVG Glyphs from a Font File) [MERGED INTO Glyph Visualizer]
 - Flags Search Engine
 - Tifinagh Fonts Viewer (Preview Tifinagh Text in Multiple Fonts)
